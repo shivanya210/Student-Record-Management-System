@@ -1,0 +1,34 @@
+//insert.php
+<html>
+<title>New Record Form</title>
+<font size="8">
+<b>ADD NEW RECORD</b>
+</font>
+<br>
+Please enter the following informations inorder to insert a new record.
+<br>
+<body style="text-align:center">
+<br>
+<form method="post" action="newadd.php">
+Registration Number:<br>
+<input type="text" name="reg"><br>
+<br>
+Student Name:<br>
+<input type="text" name="name"><br>
+<br>
+Current CGPA:<br>
+<input type="text" name="cgpa"><br>
+<br>
+Father's Name:<br>
+<input type="text" name="father"><br>
+<br>
+Mother's Name:<br>
+<input type="text" name="mother"><br>
+<br>
+Parent's Contact Numbeer:<br>
+<input type="text" name="number"><br>
+<br>
+<input type="submit">
+</form>
+</body>
+</html>
