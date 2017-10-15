@@ -1,0 +1,12 @@
+<html>
+<?php?>
+<title>Select Option</title>
+<h1 style="text-align:center">
+<b><u>KINDLY SELECT THE REQUIRED OPTION</u></b> </h1>
+<br>
+<h2 style="text-align:center"><b><a href="view.php">VIEW</a></b></h2>
+
+<h2 style="text-align:center"><b><a href="insert.php">INSERT</a></b></h2>
+
+<h2 style="text-align:center"><b><a href="delete.php">DELETE</a></b></h2>
+</html>
